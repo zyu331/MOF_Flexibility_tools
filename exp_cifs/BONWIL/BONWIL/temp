@@ -1,0 +1,24 @@
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Zn1 Zn -0.17309610 0.797253 -0.34232817 0.0221710 Uani 1 1 d . . .
+Zn2 Zn -0.17236711 0.393693 -0.54948817 0.0219510 Uani 1 1 d . . .
+O1 O -0.232796 0.6575118 -0.3068910 0.02063 Uani 1 1 d . . .
+O2 O -0.177837 0.63352 -0.4249112 0.02934 Uani 1 1 d . . .
+O3 O -0.207947 0.41482 -0.4583412 0.03094 Uani 1 1 d . . .
+O4 O -0.302018 0.2836219 -0.4008412 0.03014 Uani 1 1 d . . .
+O5 O -0.365228 0.41192 -0.4662013 0.03705 Uani 1 1 d . . .

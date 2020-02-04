@@ -1,0 +1,24 @@
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+C1 C 0.23912 0.89803 0.60923 0.044411 Uani 1 1 d . . .
+H1 H 0.2380 0.9486 0.5943 0.053 Uiso 1 1 calc R . .
+C2 C 0.24382 0.84993 0.52684 0.043510 Uani 1 1 d . . .
+H2 H 0.2451 0.8686 0.4583 0.052 Uiso 1 1 calc R . .
+C3 C 0.24672 0.77623 0.54294 0.044711 Uani 1 1 d . . .
+C4 C 0.24593 0.75423 0.64634 0.045110 Uani 1 1 d . . .
+H4 H 0.2485 0.7038 0.6631 0.054 Uiso 1 1 calc R . .

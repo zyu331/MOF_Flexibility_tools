@@ -1,0 +1,260 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_structure
+_audit_block_doi                 10.5517/ccdc.csd.cc1phmsl
+_database_code_depnum_ccdc_archive 'CCDC 1564160'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1039/C7DT03641H 2018
+_audit_update_record             
+;
+2017-07-22 deposited with the CCDC.	2020-01-19 downloaded from the CCDC.
+;
+_chemical_name_mineral           UiO-66-Zr-PDC
+_chemical_formula_sum            'C79.98 O128.61 Zr12'
+_chemical_formula_weight         4113.05
+_cell_length_a                   20.68190(11)
+_cell_length_b                   20.68190(11)
+_cell_length_c                   20.68190(11)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     8846.50(14)
+_symmetry_space_group_name_H-M   FM-3M
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_cell_setting           cubic
+loop_
+_symmetry_equiv_pos_as_xyz
+'-x, -y, -z'
+'-x, -y, z'
+'-x, -z, -y'
+'-x, -z, y'
+'-x, z, -y'
+'-x, z, y'
+'-x, y, -z'
+'-x, y, z'
+'-y, -x, -z'
+'-y, -x, z'
+'-y, -z, -x'
+'-y, -z, x'
+'-y, z, -x'
+'-y, z, x'
+'-y, x, -z'
+'-y, x, z'
+'-z, -x, -y'
+'-z, -x, y'
+'-z, -y, -x'
+'-z, -y, x'
+'-z, y, -x'
+'-z, y, x'
+'-z, x, -y'
+'-z, x, y'
+'z, -x, -y'
+'z, -x, y'
+'z, -y, -x'
+'z, -y, x'
+'z, y, -x'
+'z, y, x'
+'z, x, -y'
+'z, x, y'
+'y, -x, -z'
+'y, -x, z'
+'y, -z, -x'
+'y, -z, x'
+'y, z, -x'
+'y, z, x'
+'y, x, -z'
+'y, x, z'
+'x, -y, -z'
+'x, -y, z'
+'x, -z, -y'
+'x, -z, y'
+'x, z, -y'
+'x, z, y'
+'x, y, -z'
+'x, y, z'
+'-x+1/2, -y+1/2, -z'
+'-x+1/2, -y+1/2, z'
+'-x+1/2, -z+1/2, -y'
+'-x+1/2, -z+1/2, y'
+'-x+1/2, z+1/2, -y'
+'-x+1/2, z+1/2, y'
+'-x+1/2, y+1/2, -z'
+'-x+1/2, y+1/2, z'
+'-y+1/2, -x+1/2, -z'
+'-y+1/2, -x+1/2, z'
+'-y+1/2, -z+1/2, -x'
+'-y+1/2, -z+1/2, x'
+'-y+1/2, z+1/2, -x'
+'-y+1/2, z+1/2, x'
+'-y+1/2, x+1/2, -z'
+'-y+1/2, x+1/2, z'
+'-z+1/2, -x+1/2, -y'
+'-z+1/2, -x+1/2, y'
+'-z+1/2, -y+1/2, -x'
+'-z+1/2, -y+1/2, x'
+'-z+1/2, y+1/2, -x'
+'-z+1/2, y+1/2, x'
+'-z+1/2, x+1/2, -y'
+'-z+1/2, x+1/2, y'
+'z+1/2, -x+1/2, -y'
+'z+1/2, -x+1/2, y'
+'z+1/2, -y+1/2, -x'
+'z+1/2, -y+1/2, x'
+'z+1/2, y+1/2, -x'
+'z+1/2, y+1/2, x'
+'z+1/2, x+1/2, -y'
+'z+1/2, x+1/2, y'
+'y+1/2, -x+1/2, -z'
+'y+1/2, -x+1/2, z'
+'y+1/2, -z+1/2, -x'
+'y+1/2, -z+1/2, x'
+'y+1/2, z+1/2, -x'
+'y+1/2, z+1/2, x'
+'y+1/2, x+1/2, -z'
+'y+1/2, x+1/2, z'
+'x+1/2, -y+1/2, -z'
+'x+1/2, -y+1/2, z'
+'x+1/2, -z+1/2, -y'
+'x+1/2, -z+1/2, y'
+'x+1/2, z+1/2, -y'
+'x+1/2, z+1/2, y'
+'x+1/2, y+1/2, -z'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y, -z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, -z, -y+1/2'
+'-x+1/2, -z, y+1/2'
+'-x+1/2, z, -y+1/2'
+'-x+1/2, z, y+1/2'
+'-x+1/2, y, -z+1/2'
+'-x+1/2, y, z+1/2'
+'-y+1/2, -x, -z+1/2'
+'-y+1/2, -x, z+1/2'
+'-y+1/2, -z, -x+1/2'
+'-y+1/2, -z, x+1/2'
+'-y+1/2, z, -x+1/2'
+'-y+1/2, z, x+1/2'
+'-y+1/2, x, -z+1/2'
+'-y+1/2, x, z+1/2'
+'-z+1/2, -x, -y+1/2'
+'-z+1/2, -x, y+1/2'
+'-z+1/2, -y, -x+1/2'
+'-z+1/2, -y, x+1/2'
+'-z+1/2, y, -x+1/2'
+'-z+1/2, y, x+1/2'
+'-z+1/2, x, -y+1/2'
+'-z+1/2, x, y+1/2'
+'z+1/2, -x, -y+1/2'
+'z+1/2, -x, y+1/2'
+'z+1/2, -y, -x+1/2'
+'z+1/2, -y, x+1/2'
+'z+1/2, y, -x+1/2'
+'z+1/2, y, x+1/2'
+'z+1/2, x, -y+1/2'
+'z+1/2, x, y+1/2'
+'y+1/2, -x, -z+1/2'
+'y+1/2, -x, z+1/2'
+'y+1/2, -z, -x+1/2'
+'y+1/2, -z, x+1/2'
+'y+1/2, z, -x+1/2'
+'y+1/2, z, x+1/2'
+'y+1/2, x, -z+1/2'
+'y+1/2, x, z+1/2'
+'x+1/2, -y, -z+1/2'
+'x+1/2, -y, z+1/2'
+'x+1/2, -z, -y+1/2'
+'x+1/2, -z, y+1/2'
+'x+1/2, z, -y+1/2'
+'x+1/2, z, y+1/2'
+'x+1/2, y, -z+1/2'
+'x+1/2, y, z+1/2'
+'-x, -y+1/2, -z+1/2'
+'-x, -y+1/2, z+1/2'
+'-x, -z+1/2, -y+1/2'
+'-x, -z+1/2, y+1/2'
+'-x, z+1/2, -y+1/2'
+'-x, z+1/2, y+1/2'
+'-x, y+1/2, -z+1/2'
+'-x, y+1/2, z+1/2'
+'-y, -x+1/2, -z+1/2'
+'-y, -x+1/2, z+1/2'
+'-y, -z+1/2, -x+1/2'
+'-y, -z+1/2, x+1/2'
+'-y, z+1/2, -x+1/2'
+'-y, z+1/2, x+1/2'
+'-y, x+1/2, -z+1/2'
+'-y, x+1/2, z+1/2'
+'-z, -x+1/2, -y+1/2'
+'-z, -x+1/2, y+1/2'
+'-z, -y+1/2, -x+1/2'
+'-z, -y+1/2, x+1/2'
+'-z, y+1/2, -x+1/2'
+'-z, y+1/2, x+1/2'
+'-z, x+1/2, -y+1/2'
+'-z, x+1/2, y+1/2'
+'z, -x+1/2, -y+1/2'
+'z, -x+1/2, y+1/2'
+'z, -y+1/2, -x+1/2'
+'z, -y+1/2, x+1/2'
+'z, y+1/2, -x+1/2'
+'z, y+1/2, x+1/2'
+'z, x+1/2, -y+1/2'
+'z, x+1/2, y+1/2'
+'y, -x+1/2, -z+1/2'
+'y, -x+1/2, z+1/2'
+'y, -z+1/2, -x+1/2'
+'y, -z+1/2, x+1/2'
+'y, z+1/2, -x+1/2'
+'y, z+1/2, x+1/2'
+'y, x+1/2, -z+1/2'
+'y, x+1/2, z+1/2'
+'x, -y+1/2, -z+1/2'
+'x, -y+1/2, z+1/2'
+'x, -z+1/2, -y+1/2'
+'x, -z+1/2, y+1/2'
+'x, z+1/2, -y+1/2'
+'x, z+1/2, y+1/2'
+'x, y+1/2, -z+1/2'
+'x, y+1/2, z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Zr1 Zr 0.119502(70) 0 0 1 0.500(47)
+O1 O 0.17635(18) 0 0.09327(12) 1 1.36(11)
+O2 O 0.05861(19) -0.05861(19) -0.05861(19) 1 1.36(11)
+C1 C 0.14867(20) 0 0.14867(20) 0.8333 6.93(32)
+C2 C 0.20059(24) 0 0.20059(24) 0.8333 6.93(32)
+C3 C 0.26620(22) 0 0.18659(20) 0.625 6.93(32)
+N3 C 0.26620(22) 0 0.18659(20) 0.208 6.93(32)
+Ow1 O 0.70003(51) 0.34954(32) 0.34954(32) 0.3293(50) 8.00(40)
+Ow2 O 0.15965(30) 0.84035(30) 0.84035(30) 0.992(13) 8.00(40)
+Ow3 O 0.41597(62) 0.08403(62) 0.8492(13) 0.2500(74) 8.00(40)
+Ow4 O 0.4574(12) 0.41266(91) 0.41266(91) 0.1764(61) 8.00(40)
+Ow5 O 0.66565(80) 0 0 0.639(12) 8.00(40)
+Ow6 O 0.3229(12) 0.25 0.75 0.2000(60) 8.00(40)
+
+_diffrn_ambient_temperature      298
+_diffrn_measurement_device_type  'STOE Stadi P Cu Ka1'
+_diffrn_radiation_wavelength     1.540598
+_refine_special_details          'Structure determined from PXRD data.'

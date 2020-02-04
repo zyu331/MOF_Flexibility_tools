@@ -1,0 +1,24 @@
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Cd1 Cd -0.26776610 0.23223410 0.0000 0.0226511 Uani 1 2 d S . .
+Ca1 Ca -0.797463 0.202543 -0.2500 0.02482 Uani 1 2 d S . .
+O1 O -0.3411613 0.2299114 -0.12622 0.02986 Uani 1 1 d . . .
+O2 O -0.3971713 0.2208616 0.00633 0.03926 Uani 1 1 d . . .
+O3 O -0.6555015 0.2686417 -0.03592 0.04038 Uani 1 1 d . . .
+O4 O -0.7028814 0.2212819 -0.16032 0.04308 Uani 1 1 d . . .
+O5 O -0.50462 0.17532 -0.37972 0.060010 Uani 1 1 d . . .

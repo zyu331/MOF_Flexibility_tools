@@ -1,0 +1,260 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database CSD hosted by the Cambridge 
+# Crystallographic Data Centre CCDC.
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_structure
+_audit_block_doi                 10.5517/ccdc.csd.cc1phmsl
+_database_code_depnum_ccdc_archive 'CCDC 1564160'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1039/C7DT03641H 2018
+_audit_update_record             
+;
+2017-07-22 deposited with the CCDC.	2020-01-19 downloaded from the CCDC.
+;
+_chemical_name_mineral           UiO-66-Zr-PDC
+_chemical_formula_sum            'C79.98 O128.61 Zr12'
+_chemical_formula_weight         4113.05
+_cell_length_a                   20.6819011
+_cell_length_b                   20.6819011
+_cell_length_c                   20.6819011
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     8846.5014
+_symmetry_space_group_name_H-M   FM-3M
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_cell_setting           cubic
+loop_
+_symmetry_equiv_pos_as_xyz
+'-x, -y, -z'
+'-x, -y, z'
+'-x, -z, -y'
+'-x, -z, y'
+'-x, z, -y'
+'-x, z, y'
+'-x, y, -z'
+'-x, y, z'
+'-y, -x, -z'
+'-y, -x, z'
+'-y, -z, -x'
+'-y, -z, x'
+'-y, z, -x'
+'-y, z, x'
+'-y, x, -z'
+'-y, x, z'
+'-z, -x, -y'
+'-z, -x, y'
+'-z, -y, -x'
+'-z, -y, x'
+'-z, y, -x'
+'-z, y, x'
+'-z, x, -y'
+'-z, x, y'
+'z, -x, -y'
+'z, -x, y'
+'z, -y, -x'
+'z, -y, x'
+'z, y, -x'
+'z, y, x'
+'z, x, -y'
+'z, x, y'
+'y, -x, -z'
+'y, -x, z'
+'y, -z, -x'
+'y, -z, x'
+'y, z, -x'
+'y, z, x'
+'y, x, -z'
+'y, x, z'
+'x, -y, -z'
+'x, -y, z'
+'x, -z, -y'
+'x, -z, y'
+'x, z, -y'
+'x, z, y'
+'x, y, -z'
+'x, y, z'
+'-x+1/2, -y+1/2, -z'
+'-x+1/2, -y+1/2, z'
+'-x+1/2, -z+1/2, -y'
+'-x+1/2, -z+1/2, y'
+'-x+1/2, z+1/2, -y'
+'-x+1/2, z+1/2, y'
+'-x+1/2, y+1/2, -z'
+'-x+1/2, y+1/2, z'
+'-y+1/2, -x+1/2, -z'
+'-y+1/2, -x+1/2, z'
+'-y+1/2, -z+1/2, -x'
+'-y+1/2, -z+1/2, x'
+'-y+1/2, z+1/2, -x'
+'-y+1/2, z+1/2, x'
+'-y+1/2, x+1/2, -z'
+'-y+1/2, x+1/2, z'
+'-z+1/2, -x+1/2, -y'
+'-z+1/2, -x+1/2, y'
+'-z+1/2, -y+1/2, -x'
+'-z+1/2, -y+1/2, x'
+'-z+1/2, y+1/2, -x'
+'-z+1/2, y+1/2, x'
+'-z+1/2, x+1/2, -y'
+'-z+1/2, x+1/2, y'
+'z+1/2, -x+1/2, -y'
+'z+1/2, -x+1/2, y'
+'z+1/2, -y+1/2, -x'
+'z+1/2, -y+1/2, x'
+'z+1/2, y+1/2, -x'
+'z+1/2, y+1/2, x'
+'z+1/2, x+1/2, -y'
+'z+1/2, x+1/2, y'
+'y+1/2, -x+1/2, -z'
+'y+1/2, -x+1/2, z'
+'y+1/2, -z+1/2, -x'
+'y+1/2, -z+1/2, x'
+'y+1/2, z+1/2, -x'
+'y+1/2, z+1/2, x'
+'y+1/2, x+1/2, -z'
+'y+1/2, x+1/2, z'
+'x+1/2, -y+1/2, -z'
+'x+1/2, -y+1/2, z'
+'x+1/2, -z+1/2, -y'
+'x+1/2, -z+1/2, y'
+'x+1/2, z+1/2, -y'
+'x+1/2, z+1/2, y'
+'x+1/2, y+1/2, -z'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y, -z+1/2'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, -z, -y+1/2'
+'-x+1/2, -z, y+1/2'
+'-x+1/2, z, -y+1/2'
+'-x+1/2, z, y+1/2'
+'-x+1/2, y, -z+1/2'
+'-x+1/2, y, z+1/2'
+'-y+1/2, -x, -z+1/2'
+'-y+1/2, -x, z+1/2'
+'-y+1/2, -z, -x+1/2'
+'-y+1/2, -z, x+1/2'
+'-y+1/2, z, -x+1/2'
+'-y+1/2, z, x+1/2'
+'-y+1/2, x, -z+1/2'
+'-y+1/2, x, z+1/2'
+'-z+1/2, -x, -y+1/2'
+'-z+1/2, -x, y+1/2'
+'-z+1/2, -y, -x+1/2'
+'-z+1/2, -y, x+1/2'
+'-z+1/2, y, -x+1/2'
+'-z+1/2, y, x+1/2'
+'-z+1/2, x, -y+1/2'
+'-z+1/2, x, y+1/2'
+'z+1/2, -x, -y+1/2'
+'z+1/2, -x, y+1/2'
+'z+1/2, -y, -x+1/2'
+'z+1/2, -y, x+1/2'
+'z+1/2, y, -x+1/2'
+'z+1/2, y, x+1/2'
+'z+1/2, x, -y+1/2'
+'z+1/2, x, y+1/2'
+'y+1/2, -x, -z+1/2'
+'y+1/2, -x, z+1/2'
+'y+1/2, -z, -x+1/2'
+'y+1/2, -z, x+1/2'
+'y+1/2, z, -x+1/2'
+'y+1/2, z, x+1/2'
+'y+1/2, x, -z+1/2'
+'y+1/2, x, z+1/2'
+'x+1/2, -y, -z+1/2'
+'x+1/2, -y, z+1/2'
+'x+1/2, -z, -y+1/2'
+'x+1/2, -z, y+1/2'
+'x+1/2, z, -y+1/2'
+'x+1/2, z, y+1/2'
+'x+1/2, y, -z+1/2'
+'x+1/2, y, z+1/2'
+'-x, -y+1/2, -z+1/2'
+'-x, -y+1/2, z+1/2'
+'-x, -z+1/2, -y+1/2'
+'-x, -z+1/2, y+1/2'
+'-x, z+1/2, -y+1/2'
+'-x, z+1/2, y+1/2'
+'-x, y+1/2, -z+1/2'
+'-x, y+1/2, z+1/2'
+'-y, -x+1/2, -z+1/2'
+'-y, -x+1/2, z+1/2'
+'-y, -z+1/2, -x+1/2'
+'-y, -z+1/2, x+1/2'
+'-y, z+1/2, -x+1/2'
+'-y, z+1/2, x+1/2'
+'-y, x+1/2, -z+1/2'
+'-y, x+1/2, z+1/2'
+'-z, -x+1/2, -y+1/2'
+'-z, -x+1/2, y+1/2'
+'-z, -y+1/2, -x+1/2'
+'-z, -y+1/2, x+1/2'
+'-z, y+1/2, -x+1/2'
+'-z, y+1/2, x+1/2'
+'-z, x+1/2, -y+1/2'
+'-z, x+1/2, y+1/2'
+'z, -x+1/2, -y+1/2'
+'z, -x+1/2, y+1/2'
+'z, -y+1/2, -x+1/2'
+'z, -y+1/2, x+1/2'
+'z, y+1/2, -x+1/2'
+'z, y+1/2, x+1/2'
+'z, x+1/2, -y+1/2'
+'z, x+1/2, y+1/2'
+'y, -x+1/2, -z+1/2'
+'y, -x+1/2, z+1/2'
+'y, -z+1/2, -x+1/2'
+'y, -z+1/2, x+1/2'
+'y, z+1/2, -x+1/2'
+'y, z+1/2, x+1/2'
+'y, x+1/2, -z+1/2'
+'y, x+1/2, z+1/2'
+'x, -y+1/2, -z+1/2'
+'x, -y+1/2, z+1/2'
+'x, -z+1/2, -y+1/2'
+'x, -z+1/2, y+1/2'
+'x, z+1/2, -y+1/2'
+'x, z+1/2, y+1/2'
+'x, y+1/2, -z+1/2'
+'x, y+1/2, z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Zr1 Zr 0.11950270 0 0 1 0.50047
+O1 O 0.1763518 0 0.0932712 1 1.3611
+O2 O 0.0586119 -0.0586119 -0.0586119 1 1.3611
+C1 C 0.1486720 0 0.1486720 0.8333 6.9332
+C2 C 0.2005924 0 0.2005924 0.8333 6.9332
+C3 C 0.2662022 0 0.1865920 0.625 6.9332
+N3 C 0.2662022 0 0.1865920 0.208 6.9332
+Ow1 O 0.7000351 0.3495432 0.3495432 0.329350 8.0040
+Ow2 O 0.1596530 0.8403530 0.8403530 0.99213 8.0040
+Ow3 O 0.4159762 0.0840362 0.849213 0.250074 8.0040
+Ow4 O 0.457412 0.4126691 0.4126691 0.176461 8.0040
+Ow5 O 0.6656580 0 0 0.63912 8.0040
+Ow6 O 0.322912 0.25 0.75 0.200060 8.0040
+
+_diffrn_ambient_temperature      298
+_diffrn_measurement_device_type  'STOE Stadi P Cu Ka1'
+_diffrn_radiation_wavelength     1.540598
+_refine_special_details          'Structure determined from PXRD data.'
